@@ -1,0 +1,12 @@
+{
+  "display_name": "EXPing",
+  "loading_order": 1,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "Your name",
+  "version": "0.0.1",
+  "homePage": "https://github.com/Welsley/EXPing",
+  "auto_update": true
+}
